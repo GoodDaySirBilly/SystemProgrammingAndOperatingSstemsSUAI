@@ -1,0 +1,6 @@
+a 1 asd 23223
+b 2 dfksf  892343
+c 10  4343 sdd
+d 20 -45  3434
+e 50 ad //aaa
+f 50 asd 000

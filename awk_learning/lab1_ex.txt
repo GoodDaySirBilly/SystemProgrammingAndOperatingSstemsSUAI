@@ -1,0 +1,9 @@
+N Weapon    Classes
+1 Сrossbow  Rogue, Range
+2 Knife     Ranger, Rogue
+3 Peak      Warrior, Paladine, Monk
+4 Sword     Warrior, Barbarian, Paladine
+5 Bow       Warrior, Rogue, Ranger
+6 Halberd   Warrior, Paladine
+7 Axe       Barbarian
+
