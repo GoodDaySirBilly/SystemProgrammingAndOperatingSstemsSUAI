@@ -13,17 +13,21 @@
 void handler1(int);
 void handler2(int);
 void handler3(int);
-void my_read();
-void my_write();
+
+void my_read(int);
+void my_write(int);
 void string_to_int_array();
+
+int ten_pow(int p);
 
 #define M 5
 #define N 10
+#define SIGNES 2
 
 #define SIG1 SIGUSR1
 
 #define TXT_FILE "/home/vboxuser/Repos/manualDir/signal_learning/lab_tmp.txt"
-#define BUFFER_SIZE 1009
-#define WORD_SIZE 100
+#define BUFFER_SIZE SIGNES*2*M*N
+
 
 #endif
